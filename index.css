@@ -1,0 +1,35 @@
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", Arial,
+    sans-serif;
+  background-image: url("images/Blackjack-online.jpg");
+  background-size: cover;
+  font-weight: bold;
+  color: white;
+  text-align: right;
+}
+p {
+  margin-right: 3.5rem;
+}
+h1 {
+  color: goldenrod;
+  margin-top: 1rem;
+  margin-right: 3.5rem;
+}
+
+#message-el {
+  font-style: italic;
+}
+
+button {
+  color: #016f32;
+  width: 150px;
+  background: goldenrod;
+  padding-top: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  font-weight: bold;
+  border: none;
+  border-radius: 0.125rem;
+  margin-bottom: 0.125rem;
+  margin-top: 0.125rem;
+  margin-right: 0.625rem;
+}
